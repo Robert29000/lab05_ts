@@ -1,1 +1,1 @@
-![Alt text](/"Working lab.png")
+![Alt text](working_lab.png)
