@@ -1,1 +1,1 @@
-![Proof] (Working lab.png)
+![Proof] (/Working lab.png)
