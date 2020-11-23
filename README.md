@@ -1,1 +1,1 @@
-![Proof](/Working lab.png)
+![Alt text](/"Working lab.png")
